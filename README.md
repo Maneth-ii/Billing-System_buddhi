@@ -1,4 +1,3 @@
 # Billing-System
 <img src="https://github.com/buddhirangana/Billing-System/blob/main/images/Screenshot.PNG" alt="Screenshot">
-This is a Simple Billing System develop using Python.
 
